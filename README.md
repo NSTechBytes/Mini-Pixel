@@ -14,11 +14,11 @@
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/mini-pixel.git
+   git clone https://github.com/NSTechBytes/Mini-Pixel.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd mini-pixel
+   cd Mini-Pixel
    ```
 3. Install the required dependencies:
    ```bash
@@ -26,7 +26,7 @@
    ```
 4. Run the application:
    ```bash
-   python mini_pixel_app.py
+   python main.py
    ```
 
 ## Packaging
@@ -40,7 +40,7 @@
 4. Press the "Convert" button, and watch the progress bar fill up as the images are processed.
 
 ## Screenshots
-![Mini Pixel Screenshot](path/to/screenshot.png)
+![Mini Pixel Screenshot](https://github.com/NSTechBytes/Projects-Templates/blob/main/Applications/Mini%20Pixel/Mini%20Pixel.png)
 
 ## Contributing
 Feel free to fork the repository, submit issues, or contribute to the project via pull requests!
@@ -50,9 +50,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 
 
-### Instructions for Use:
-1. Replace `https://github.com/yourusername/mini-pixel.git` with your actual GitHub repository URL.
-2. Update `path/to/screenshot.png` with the path to your screenshot image file (or remove the screenshot section if not applicable).
-3. You can customize any section to better fit your project's specifics.
 
-Once you have edited the file to your liking, create a file named `README.md` in the root of your repository and paste the contents into it. This will provide users with all the necessary information about your project!
